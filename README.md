@@ -1,6 +1,7 @@
 # 期中项目NotePad
 ·此README文件用于介绍本次期中项目实验。
 
+若无法显示图片则点击：[Notepad图片](https://blog.csdn.net/weixin_45738069/article/details/111412756)
 
 
 ·首先是进行工程的导入，但在导入工程时发生错误，通过记事本更改NotePad-master工程的，build.gradle(project)、build.gradle(app)、gradle-wrapper.properties文件为能正常编译的文件内容，并去掉AndroidManifest.xml中的语句再进行工程的导入，最终编译成功。
